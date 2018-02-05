@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">interfaZE</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="textoUser">Username</string>
+    <string name="textoPsswd">Password</string>
+    <string name="txtBtn">Signup</string>
+    <string name="txtNOcuenta">Don´t have an account</string>
+    <string name="txtTITULO">aguacate</string>
+    <string name="txtSplash">aguacat</string>
+    <string name="txtSplash1">e</string>
+    <string name="txtSUBTITTLE">my first APP</string>
+    <string name="txtWelcome">welcome to ...</string>
+</resources>
